@@ -41,7 +41,7 @@ body{
     margin: 15px;
 }
 
-.play_button{
+.play_button, .pause{
     width: 130px;
     font-size: 25px;
 }
